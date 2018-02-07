@@ -1,5 +1,5 @@
 module.exports = {
-  sum: function(){
+  difference: function(){
 
   },
   isEqual: function(){
